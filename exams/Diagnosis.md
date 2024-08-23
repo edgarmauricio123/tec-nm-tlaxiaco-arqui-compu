@@ -94,7 +94,7 @@ Solo he utilizado uno que es windows asi que no sabria cuales son las compatraci
 
 3. **Pregunta de Ejercicio:**  
    Completa la tabla de verdad para la compuerta XOR con las siguientes combinaciones de entrada:
-   - A = 0, B = 0
-   - A = 0, B = 1
-   - A = 1, B = 0
-   - A = 1, B = 1
+   - A = 0, B = 0=0
+   - A = 0, B = 1=1
+   - A = 1, B = 0=1
+   - A = 1, B = 1=0
