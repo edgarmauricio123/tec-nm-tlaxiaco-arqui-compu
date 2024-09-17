@@ -6,7 +6,7 @@ El alumno identificará las carácteristicas técnicas más importantes de un eq
 
 ## Instrucciones
 
-1. Instala el software diagnóstico en el equipo. Algunos software de diagnóstico pueden ser: CPU-Z, HWMonitor, HWiNFO, AIDA64, entre otros.
+1. Instala el software diagnóstico en el equipo. Algunos software de diagnóstico pueden ser: CPU-Z, HWMonitor, HWiNFO, /*AIDA64*/, entre otros.
 
 2. Ejecuta el software y toma capturas de pantalla de las siguientes características del equipo:
     - CPU
